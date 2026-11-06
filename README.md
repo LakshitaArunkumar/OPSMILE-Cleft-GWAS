@@ -69,4 +69,4 @@ The original research did not establish genome-wide significant associations in 
 - Association p-values and candidate-locus follow-up remain exploratory unless validated independently.
 
 ## Data Availability
--The original datasets and certain project files are not publicly available due to research data confidentiality. This repository contains the analysis code and methodology used in the project, with restricted data and related materials excluded.
+The original datasets and certain project files are not publicly available due to research data confidentiality. This repository contains the analysis code and methodology used in the project, with restricted data and related materials excluded.
