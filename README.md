@@ -44,11 +44,3 @@ The project documentation describes SNP QC, sex discrepancies, parent–offsprin
 
 ## Interpretation
 The original research did not establish genome-wide significant associations in the recorded analyses. Nominal and suggestive associations and candidate SNP enrichment do not independently establish causal variants. The cohort size, phenotype classification, ancestry structure and multiple testing affect interpretation. Models with 3 versus 5 PCs should be evaluated in light of study design rather than selected solely by genomic inflation.
-
-## Privacy, ethics & ownership
-- **Never upload:** real `.bed/.bim/.fam`, person-level traits/IDs, sample or family maps, phenotype spreadsheets, curated removal lists, imputation files, PLINK logs, result `.assoc.*` files, original presentations with participant tables, or original `work.zip`.
-- **No real data are needed to read the code.** Synthetic placeholders are explicitly labeled as synthetic and **are not results**.
-- Obtain PI/institutional approval before sharing any original study-derived data, figures, statistics, manuscripts, or collaborators' materials.
-- No license is assigned until code/data ownership and sharing permissions are confirmed.
-
-**Status:** educational/portfolio code reconstruction; not an independently executable reproduction of the protected original project.
