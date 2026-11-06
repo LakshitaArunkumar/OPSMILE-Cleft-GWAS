@@ -9,8 +9,6 @@ OPSMILE-Cleft-GWAS/
   scripts/run_gwas.sh
   scripts/gwas_analysis.R
   examples/clinical_manifest_SYNTHETIC.csv
-  docs/PRIVATE_VS_PUBLIC.md
-  .gitignore
 ```
 
 ## Biological question
