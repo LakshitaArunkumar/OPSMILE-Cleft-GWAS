@@ -68,10 +68,5 @@ The original research did not establish genome-wide significant associations in 
 - Interpret the five subtypes and the two PC models as overlapping, non-independent analyses, not independent replication studies.
 - Association p-values and candidate-locus follow-up remain exploratory unless validated independently.
 
-## Privacy, ethics & ownership
-- **Never upload:** real `.bed/.bim/.fam`, person-level traits/IDs, sample or family maps, phenotype spreadsheets, curated removal lists, imputation files, PLINK logs, result `.assoc.*` files, original presentations with participant tables, or original `work.zip`.
-- **No real data are needed to read the code.** Synthetic placeholders are explicitly labeled as synthetic and **are not results**.
-- Obtain PI/institutional approval before sharing any original study-derived data, figures, statistics, manuscripts, or collaborators' materials.
-- No license is assigned until code/data ownership and sharing permissions are confirmed.
-
-**Status:** educational/portfolio code reconstruction; not an independently executable reproduction of the protected original project.
+## Data Availability
+-The original datasets and certain project files are not publicly available due to research data confidentiality. This repository contains the analysis code and methodology used in the project, with restricted data and related materials excluded.
